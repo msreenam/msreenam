@@ -1,4 +1,8 @@
-## Hi there 👋
+👋 Hi, I’m Meera Nambiar — a Computer Science student at the University of Delaware specializing in Artificial Intelligence.  
+💡 I’m passionate about solving real-world problems with code, whether it’s using machine learning to predict Airbnb ratings or creating user-friendly designs for tech events.  
+🚀 Currently exploring deep learning, data analysis, and accessibility in AI.  
+📫 You can reach me at: mnambiar@udel.edu | [LinkedIn](https://www.linkedin.com/in/meera-nambiar)
+
 
 <!--
 **msreenam/msreenam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
